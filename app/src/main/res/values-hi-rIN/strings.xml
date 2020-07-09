@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">interactive_app</string>
+    <string name="order_summary">आदेश सारांश</string>
+</resources>

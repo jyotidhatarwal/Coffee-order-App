@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">interactive_app</string>
+    <string name="order_summary"> Order summary</string>
+</resources>
